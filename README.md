@@ -4,8 +4,8 @@ Performing analysis on kickstarter data to uncover trends
 Fundraising campaigns have several factors which can influence their success or failure.  In this analysis we will focus specifically on launch dates and fundraising goals.  By the end we will be able to determine what month do the most successful campaigns occur, and what is a realistic fundraising goal.
 ## Analysis
 In this analysis data was put into line graphs to display the final outcomes.   The use of this type of graph allows us to see success vs failed over time for launch date outcomes.  It also allows us to see success vs failed percentage for goal amounts.
-![](/Images/Theater_Outcomes_vs_Launch.png)
-![](/Images/Outcomes_vs_Goals.png)
+![](/Resources/Theater_Outcomes_vs_Launch.png)
+![](/Resources/Outcomes_vs_Goals.png)
 ## Challenges
 During this analysis there were no difficulties coming to the conclusions.  Given the data set provided, difficulties could arise if you were not able to extract the subcategory to give us information specifically related to theater.  Another challenge that could arise would be if you were unable to determine the correct values to input into the countifs formula.  Incorrectly inputting the values could skew the entire data set for the goal groupings.
 ## Results
